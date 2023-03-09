@@ -1,2 +1,2 @@
 # java
-beginner
+This repository is just for beginners
