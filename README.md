@@ -1,2 +1,3 @@
 # java
-This repository is just for beginners
+
+These were the codes that I typed during my learning phase ...
