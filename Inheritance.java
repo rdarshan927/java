@@ -46,6 +46,7 @@ class Moon extends World{
     }
 
     public Moon(String check6, int check7){
+        super("hello", 21); 
         System.out.println("Hello Moon2");
     }
 }
